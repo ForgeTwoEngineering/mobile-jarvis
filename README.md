@@ -74,7 +74,7 @@ You walk into your room. Jarvis spots your face from across the room, drives tow
 
 **Oskar Trujillo (Body):** All physical hardware — wheeled chassis, DC motors, L298N wiring, pan-tilt head, 3D printed shell, Arduino motor code, Raspberry Pi setup, power system, camera/mic/speaker mounting
 
----
+--- 
 
 ## Serial Command Protocol
 
